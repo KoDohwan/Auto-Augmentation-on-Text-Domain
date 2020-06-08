@@ -27,18 +27,18 @@ Open **config.py**, and change the line which was annotated.
 
 
 
-## Augmentation
+## Training Model
 
 ``` 
-python augment.py
+python model.py
 ```
 
 
 
-## Training Model
+## Training Controller
 
 ``` 
-python model.py   
+python main.py   
 ```
 
 
